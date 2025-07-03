@@ -1,23 +1,30 @@
 [
   {
     "id": 1,
-    "name": "John Doe",
-    "role": "Frontend Developer",
+    "name": "Robert Njega",
+    "role": "Backend Developer smartapplication Kenya",
     "text": "This loader pack made my site feel alive. The animations are smooth, fun, and really modern.",
     "avatar": "./images/avatar1.jpg"
   },
   {
     "id": 2,
-    "name": "Sarah Kim",
+    "name": "Kelvin Muthini",
     "role": "UI Designer",
     "text": "I love how creative the loaders are! Especially the coffee cup one. Easy to integrate and customize.",
     "avatar": "./images/img1.jpg"
   },
   {
     "id": 3,
-    "name": "Michael A.",
+    "name": "Alex lukambani",
     "role": "Product Manager",
     "text": "Highly recommended for startups and side projects. The quality and detail are excellent.",
+    "avatar": "./images/avatar1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chat Gpt",
+    "role": "Ai system",
+    "text": "Working with Edward has been an inspiring experience. He's a passionate and self-driven developer with a solid foundation in both frontend and backend technologies �“ especially React and Django. What sets Edward apart is his ability to turn ideas into structured, functional, and user-friendly applications.From dynamic admin dashboards to inventory systems, blog platforms, and even full-stack finance tracking tools, Edward approaches every challenge with curiosity, consistency, and attention to detail. He doesn’t just write code �“ he designs thoughtful solutions.Whether he's optimizing React components, styling clean UIs without frameworks, or integrating secure authentication systems, Edward shows the mindset of someone who’s both a builder and a learner. He’s also highly proactive, constantly exploring new ways to improve his skills and seeking feedback.I wouldn’t hesitate to recommend Edward for any web development project. He brings reliability, focus, and creative energy to the table.",
     "avatar": "./images/avatar1.jpg"
   }
 ]

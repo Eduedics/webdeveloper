@@ -3,32 +3,33 @@
     "title": "Departmental Courses Platform",
     "description": "A comprehensive course management system for university departments, enabling students to browse, enroll, and track their academic progress.",
     "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=1170&q=80",
-    "tech": ["React", "Node.js", "MongoDB", "Express"],
-    "preview": "#",
-    "source": "#"
+    "tech": ["Django", "PostgreSQL"],
+    "preview": "https://github.com/Eduedics/departmentalCourses",
+    "source": "https://github.com/Eduedics/departmentalCourses"
   },
   {
-    "title": "E-Commerce Dashboard",
-    "description": "Advanced analytics dashboard for e-commerce businesses with real-time sales tracking, inventory management, and customer insights.",
-    "image": "https://images.unsplash.com/photo-1547658719-da2b51169166?auto=format&fit=crop&w=1160&q=80",
-    "tech": ["JavaScript", "D3.js", "Firebase", "Bootstrap"],
-    "preview": "#",
-    "source": "#"
+    "title": "Inventory Manager",
+    "description": "Store is a web application meant to automate inventory of stores ie (dukas ,stores) for sale management and fund insights.",
+    "image": "https://images.unsplash.com/photo-1735529576077-d3792e43bab8?q=80&w=327&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tech": ["React", "Node.js", "mySql", "Bootstrap"],
+    "preview": "https://eduedics.github.io/Store/",
+    "source": "https://github.com/Eduedics/Store"
+
   },
   {
-    "title": "Task Management App",
-    "description": "Productivity application with team collaboration features, deadline tracking, and priority management for efficient workflow.",
-    "image": "https://images.unsplash.com/photo-1616587226152-0a7b0d8267d6?auto=format&fit=crop&w=1170&q=80",
-    "tech": ["Vue.js", "Python", "Django", "PostgreSQL"],
-    "preview": "#",
-    "source": "#"
+    "title": "Tab Saver",
+    "description": "A simple browser tab-saving tool that allows users to save and manage links locally. Designed for users who want to bookmark tabs quickly without relying on browser bookmarks..",
+    "image": "https://plus.unsplash.com/premium_photo-1720032305135-a87c5e0888b6?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tech": ["JavaScript","localStorage"],
+    "preview": "https://github.com/Eduedics/tabSaver",
+    "source": "https://github.com/Eduedics/tabSaver"
   },
   {
-    "title": "Fitness Tracking System",
-    "description": "Comprehensive health and fitness platform with workout planning, nutrition tracking, and progress visualization.",
-    "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=1170&q=80",
-    "tech": ["React Native", "Redux", "GraphQL", "MongoDB"],
-    "preview": "#",
-    "source": "#"
+    "title": "Finance Manager",
+    "description": "Comprehensive money management with expenditure and income management insights.",
+    "image": "https://images.unsplash.com/photo-1579621970795-87facc2f976d?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "tech": ["React", "Django", "PostgreSQL"],
+    "preview": "https://github.com/Eduedics/finance-master",
+    "source": "https://github.com/Eduedics/finance-master"
   }
 ]
