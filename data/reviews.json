@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "role": "Frontend Developer",
+    "text": "This loader pack made my site feel alive. The animations are smooth, fun, and really modern.",
+    "avatar": "./images/avatar1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Kim",
+    "role": "UI Designer",
+    "text": "I love how creative the loaders are! Especially the coffee cup one. Easy to integrate and customize.",
+    "avatar": "./images/img1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Michael A.",
+    "role": "Product Manager",
+    "text": "Highly recommended for startups and side projects. The quality and detail are excellent.",
+    "avatar": "./images/avatar1.jpg"
+  }
+]
